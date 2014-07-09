@@ -1,0 +1,12 @@
+en:
+  onEnable: '{PLUGINNAME} v{VERSION} has been enabled. (by:Unluckyninja)'
+  onDisable: '{PLUGINNAME} v{VERSION} has been disabled. (by:Unluckyninja)'
+  #{ITEMNAME} represents the name of the item,while {ITEMID} represents the ID.
+  modeTrue:
+    onPlayerUse: '&c[{PLUGINNAME}] You need to gain the permission to use {ITEMNAME}!'
+    onPlayerHold: '&c[{PLUGINNAME}] You need to gain the permission to hold {ITEMNAME}!'
+    onPlayerPickUp: '&c[{PLUGINNAME}] You need to gain the permission to pick up {ITEMNAME} to hand!'
+  modeFalse:
+    onPlayerUse: '&c[{PLUGINNAME}] You are not allowed to use {ITEMNAME}!'
+    onPlayerHold: '&c[{PLUGINNAME}] You are not allowed to hold {ITEMNAME}!'
+    onPlayerPickUp: '&c[{PLUGINNAME}] You are not allowed to pick up {ITEMNAME} to hand!'

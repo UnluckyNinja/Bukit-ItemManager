@@ -1,0 +1,11 @@
+name: ItemManager
+main: com.github.unluckyninja.itemmanager.ItemManager
+author: UnluckyNinja
+version: 1.0.2
+permissions:
+  itemmanager.admin:
+    description: Allow you to ignore all item limits from ItemManager.
+    default: op
+  itemmanager.item.[itemID]:
+    description: Allow you to use or prevent you from using an item.It depends on the plugin mode.
+    default: false

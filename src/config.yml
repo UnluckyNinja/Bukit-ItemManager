@@ -1,0 +1,6 @@
+# When the "mode" is false,players who have the item permissions will be prevented using those items,
+# and the others are allowed.
+# When the "mode" is true,players who have the item permissions will be allowed to use those items,
+# and the others are prevented.
+mode: false
+language: en
